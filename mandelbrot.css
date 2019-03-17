@@ -1,4 +1,7 @@
 canvas {
-    border-style: solid;
     margin-bottom:10px;
+}
+
+body {
+    background-color: #260000
 }
